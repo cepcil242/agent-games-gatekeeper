@@ -1,0 +1,1 @@
+{"dependencies":{"js-sha3":"^0.15.0","snarkjs":"^0.7.5"},"description":"Proof Gatekeeper agent for the zkVerify Agent Games — deployment entry point; the application itself lives in app/.","engines":{"node":">=18"},"name":"agent-games-gatekeeper","private":true,"scripts":{"start":"node app/src/server.mjs"},"type":"module","version":"0.1.0"}
